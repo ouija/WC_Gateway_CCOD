@@ -2,7 +2,7 @@
 /**
  * Class WC_Gateway_CCOD file.
  *
- * @package WooCommerce\Gateways
+ * @package WC_GATEWAY_CCOD
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
@@ -10,7 +10,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 /**
- * Cash on Delivery Gateway.
+ * Credit Card on Delivery Gateway.
  *
  * Provides a Credit Card on Delivery Payment Gateway.
  *
