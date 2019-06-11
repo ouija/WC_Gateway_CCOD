@@ -3,11 +3,11 @@
  * Plugin Name: WooCommerce Credit Card on Delivery
  * Plugin URI: https://github.com/ouija/WC_Gateway_CCOD
  * Description: Extends WooCommerce by adding a payment option of credit card on delivery.
- * Version: 1.2
+ * Version: 1.3
  * Requires at least: 4.0
  * Tested up to: 5.0
  * WC requires at least: 2.5
- * WC tested up to: 3.5
+ * WC tested up to: 3.6
  * Author: ouija
  * Author URI: http://ouija.xyz
  * License: GPLv2 or later
